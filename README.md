@@ -3,4 +3,4 @@
 
 add fcm json file and replace the package 
 
-new features and enhancments will be added.
+new features and enhancements will be added.
